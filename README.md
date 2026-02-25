@@ -15,8 +15,8 @@
     <a href="https://www.linkedin.com/in/mayanksingh-dev" target="_blank">
       <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
     </a>
-    <a href="https://twitter.com/YOUR_TWITTER" target="_blank">
-      <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter"/>
+    <a href="https://x.com/YOUR_TWITTER" target="_blank">
+      <img src="https://img.shields.io/badge/X-%23000000.svg?style=for-the-badge&logo=X&logoColor=white" alt="X"/>
     </a>
     <a href="https://instagram.com/YOUR_INSTAGRAM" target="_blank">
       <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram"/>
